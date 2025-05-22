@@ -1,0 +1,23 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "Il mio blog",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancescoMorettiBrs/express-blog-intro.git"
+  },
+  "type": "module",
+  "author": "Francesco Moretti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancescoMorettiBrs/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/FrancescoMorettiBrs/express-blog-intro#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
